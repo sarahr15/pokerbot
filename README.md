@@ -1,4 +1,4 @@
-# NUCATS Pokerbots
+# Pokerbot for NUCATS tournament
 
 Write a bot that plays No-Limit Texas Hold'em, then watch it play against everyone else's bots on the NUCATS table.
 
